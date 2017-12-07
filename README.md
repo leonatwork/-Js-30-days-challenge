@@ -1,4 +1,4 @@
 # JavaScript 30 days challenge
 ## Contents :
-1. [DrumKit]Drum Kit
-2. [CSS+Js_clock]CSS + Js clock
+1. [Drum Kit](DrumKit)
+2. [CSS + Js clock](CSS+Js_clock)
