@@ -10,3 +10,4 @@
 8. [Html-5 Canvas](html5Canvas)
 9. [Dev Tool tricks](devTools)
 10. [Check multiple boxes by holding shift](checkMultipleCheckBoxes)
+11. [HTML custom video player](customVideoPlayer)
